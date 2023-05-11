@@ -1,0 +1,17 @@
+jedi
+	id
+	nome
+	classe
+
+
+sith
+	ID
+	nome
+	classe
+
+
+combate
+	id do combate
+	id do jedi
+	id do sith
+	id do vencedor	
